@@ -1,3 +1,16 @@
+
+## Documents submitted for this assignment
+- PA1_template.html
+- PA1_template.Rmd
+
+
+## HTML File submission can viewed at git hub gh-pages path.
+
+https://ramumartha1.github.io/RepData_PeerAssessment1/PA1_template.html
+
+
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
